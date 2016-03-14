@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[You can unteach a dog old tricks]]></title>
         <description><![CDATA[You can unteach a dog old tricks]]></description>
-        <link>https://thegrid.ai/manual/</link>
+        <link>https://thegrid.ai/unteach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 18:32:58 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/manual/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 18:40:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/unteach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Repetition is the mother of unlearning</p>]]></description>
-            <link>https://thegrid.ai/manual/2d6cf424-abc8-4d16-9953-2921bbc541e7/index.html</link>
+            <link>https://thegrid.ai/unteach/2d6cf424-abc8-4d16-9953-2921bbc541e7/index.html</link>
             <guid isPermaLink="false">2d6cf424-abc8-4d16-9953-2921bbc541e7</guid>
-            <pubDate>Mon, 14 Mar 2016 18:32:57 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 18:40:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
