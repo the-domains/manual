@@ -1,4 +1,4 @@
-name: Unteach
+name: Unlearn
 favicon: null
 layout_spectrum: 0.85008
 typography_spectrum: 0.36478482163511217
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.7312970135826617
-  lightness: 0.013666223967447877
-  saturation: 0.7512639574706554
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.6173553534317762
 purpose: []
